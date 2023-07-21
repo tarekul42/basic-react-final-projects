@@ -1,0 +1,41 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Python is a high-level, user-friendly programming language known for its simplicity, readability, and extensive libraries, making it a favorite among developers for a wide range of applications.",
+        "author_name": "John Doe",
+        "author_picture": "https://images.unsplash.com/photo-1568316674077-d72ee56de61c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmVzc2lvbmFsJTIwbWFufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "publish_date": "2023-07-20",
+        "minutes":8,
+        "blog_picture": "https://media.istockphoto.com/id/1413990965/photo/glowing-python-programming-language-code-on-a-blue-digital-surface-with-a-sphere-grid-design.jpg?s=2048x2048&w=is&k=20&c=jrUwl1b5U0LIiP97ei1q7ghpZe91ifAro0ngrjRB9vo="
+      },
+      {
+        "id": 2,
+        "title": "JavaScript is a versatile and widely-used programming language that powers the interactive elements and dynamic content on the majority of websites and web applications.",
+        "author_name": "Jane Smith",
+        "author_picture": "https://images.unsplash.com/photo-1562788869-4ed32648eb72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHByb2Zlc3Npb25hbCUyMG1hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "publish_date": "2023-07-19",
+        "minutes":5,
+        "blog_picture": "https://images.unsplash.com/photo-1550063873-ab792950096b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8amF2YXNjcmlwdHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 3,
+        "title": "Java is a robust, object-oriented programming language renowned for its platform independence, making it ideal for building cross-platform applications and web services.",
+        "author_name": "Robert Johnson",
+        "author_picture": "https://images.unsplash.com/photo-1543132220-3ec99c6094dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHByb2Zlc3Npb25hbCUyMG1hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "publish_date": "2023-07-18",
+        "minutes":10,
+        "blog_picture": "https://media.istockphoto.com/id/805182686/photo/computer-code-snippet.webp?b=1&s=170667a&w=0&k=20&c=iuCC-uZf3CS-oVTPdH8gwkWmTS7DUn-nPzlot8q1Y6I="
+      },
+      {
+        "id": 4,
+        "title": "PHP is a server-side scripting language primarily used for web development, empowering developers to create dynamic websites and web applications with ease and efficiency.",
+        "author_name": "Alice Williams",
+        "author_picture": "https://images.unsplash.com/photo-1595211877493-41a4e5f236b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHByb2Zlc3Npb25hbCUyMG1hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "publish_date": "2023-07-17",
+        "minutes":12,
+        "blog_picture": "https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGhwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+      }
+    ]
+  }
+  
